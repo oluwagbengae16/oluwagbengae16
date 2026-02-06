@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>Abolaji|my portfolio</title>
+<style>
+ body {
+    font_family:Arial, sans_serif
+    background_color: #f4f6f8;
+    padding: 40px;
+    text align: centre;
+    }
+    .card{
+    background:blue
+    padding:20px
+    max_width:500px;
+    margin:auto;
+    border_radius:10px;
+    }
+    </style>
+   </head>
+   <body>
+    <div class="card">
+    <h1>ABOLAJI OLUWAGBENGA</h1>
+    <p>I'm Aspiring Web3 Designer,Beginner Software,UI/UX Designer,Learning Blockchain.</p>
+    <p>Building projects step by step</p>
+  </div>
+ </body> 
+ </html>
